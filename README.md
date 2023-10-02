@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Amithkumar P Radhakrishnan</h1>
-
 <h3 align="center">An ambitious student with strong organizational and multitasking skills, from India</h3>
-<br> 
+<br> <hr>
 - 🌱 I’m currently learning **Everything about Frontend Development**
-- <p>🏡 Know more about me  at <a href="">my website</a></p>
+- <p>- 🏡 Know more about me  at <a href="">my website</a></p>
 
 
 
