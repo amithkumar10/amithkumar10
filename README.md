@@ -17,8 +17,8 @@
 <hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amithkumar10&show_icons=true&locale=en&layout=compact" alt="amithkumar10" /></p>
-<br>
+<br> <hr>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amithkumar10&show_icons=true&locale=en" alt="amithkumar10" /></p>
-<br>
+<br> <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amithkumar10&" alt="amithkumar10" /></p>
-<br>
+<br> <hr>
