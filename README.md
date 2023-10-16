@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Everything about Frontend Development**
 
--   <p>📝 I regularly write articles on <a href="https://amithkumar.hashnode.dev/" target="_blank" rel="noopener noreferrer">my website</a></p> 
+-   <p>📝 I regularly write articles on <a href="https://amithkumar.hashnode.dev/" target="_blank" rel="noopener noreferrer">my blog page</a></p> 
 - 📫 How to reach me **amith10mnr@gmail.com**
 -  <p>🏡 Know more about me at <a  href="" target="blank">my website</a></p>
 
