@@ -26,7 +26,7 @@
 
 <p align="left">
   <h3 align="left">Badges:</h3>
-  <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="80px" width="90px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>
+  <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="120px" width="125px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>
 </p>
 
 
