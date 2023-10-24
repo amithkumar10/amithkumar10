@@ -30,9 +30,13 @@
   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <br><br>
+   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
