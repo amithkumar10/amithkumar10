@@ -27,14 +27,14 @@
 <p align="left">
   <h3 align="left">Badges:</h3>
   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5858180"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/pfbHZIL5bmVEy0ZFJn5bzkHpbUVefMti4xbbGoCOh9s%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5843993"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/Nef4drGnjz5nOQCgSjdcV5Fhl%2FzJAyNrNfWZ4AQ1xL0%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5823287"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/hJUAG%2BgAxYxJ3Scj0ch7p3n3TWZA%2BHOMtMkX2F%2Fmt3Y%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <br><br>
-  <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5804868"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5844831"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5858181"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/6QsPX5Wdg0eHWFed3ZKTbX2c88yVFGgaWPlYt%2BJdp4Q%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5858354"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
    <br><br>
    <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5737532"><img height="150px" width="160px" src ="https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
