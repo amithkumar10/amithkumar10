@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amithkumar10&show_icons=true&locale=en" alt="amithkumar10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amithkumar10&" alt="amithkumar10" /></p>
+
 
 <p align="left">
   <h3 align="left">Badges:</h3>
