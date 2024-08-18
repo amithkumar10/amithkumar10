@@ -11,7 +11,7 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/amithkumar p. radhakrishnan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amithkumar p. radhakrishnan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amithkumar-p-radhakrishnan-7179b8283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amithkumar p. radhakrishnan" height="30" width="40" /></a>
 <a href="https://instagram.com/amithkumar_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amithkumar_10" height="30" width="40" /></a>
 <a href="https://hashnode.com/@amithkumar10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@amithkumar10" height="30" width="40" /></a>
 </p>
