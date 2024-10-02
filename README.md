@@ -4,9 +4,6 @@
 
 - Know more about me at <a href="www.#.com">My Website</a>
 
-
-- 📝 I regularly write articles on [https://amithkumar.hashnode.dev/](https://amithkumar.hashnode.dev/)
-
 - 📫 How to reach me **amith10mnr@gmail.com**
 
 <h3 align="left">Socials:</h3>
