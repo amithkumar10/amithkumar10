@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amithkumar10&show_icons=true&locale=en&layout=compact" alt="amithkumar10" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amithkumar10&show_icons=true&locale=en" alt="amithkumar10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amithkumar10&show_icons=true&locale=en&cache_seconds=0" alt="amithkumar10" /></p>
 
 <p align="left">
 <h3 align="left">Badges:</h3>
