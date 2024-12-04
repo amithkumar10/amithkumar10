@@ -10,11 +10,15 @@
 
 - 📫 How to reach me **amith10mnr@gmail.com**
 
+---
+
 <h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/amithkumar-p-radhakrishnan-7179b8283/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amithkumar p. radhakrishnan" height="30" width="40" /></a>
 <a href="https://instagram.com/amithkumar_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amithkumar_10" height="30" width="40" /></a>
 </p>
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
@@ -38,8 +42,9 @@
   <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Platform" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS" />
-
 </p>
+
+---
 
 <h3>GitHub Stats & Language Usage</h3>
 <p>
@@ -47,6 +52,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amithkumar10&show_icons=true&locale=en&cache_seconds=0" alt="amithkumar10" />
 </p>
 
+---
 
 <p align="left">
 <h3 align="left">Badges:</h3>
@@ -90,5 +96,6 @@
         <img height="150px" width="160px" src="https://cdn.qwiklabs.com/WlxuAP5%2FfVCEXdaQuf7pGIFM8sDgjZ1Q0TSFlRpJofQ%3D" alt="Badge 9">
     </a>
 </div>
+   </p>
 
-</p>
+    
