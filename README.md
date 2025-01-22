@@ -96,6 +96,9 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5859064">
         <img height="150px" width="160px" src="https://cdn.qwiklabs.com/WlxuAP5%2FfVCEXdaQuf7pGIFM8sDgjZ1Q0TSFlRpJofQ%3D" alt="Badge 9">
     </a>
+   <a href="https://badgr.com/public/assertions/mqLuXdvATIiwlmW9dgLdXg?identity__email=amith10mnr@gmail.com">
+        <img height="150px" width="160px" src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/courses/1a8b8cdxvqjxq/promo-image.1676069333.png" alt="Badge 8">
+    </a>
 </div>
    </p>
 
