@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Everything about Web Development**
 
-- 🔗Know more about me at <a href="https://portfolio-website-plum-six.vercel.app/">My Website</a>
+- 🔗Know more about me at <a href="https://amithkumar.vercel.app/" target = "blank">My Website</a>
 
 - 📫 How to reach me **amith10mnr@gmail.com**
 
