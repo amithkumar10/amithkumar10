@@ -52,9 +52,14 @@
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amithkumar10&show_icons=true&locale=en&layout=compact" alt="amithkumar10" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amithkumar10&show_icons=true&locale=en&cache_seconds=0" alt="amithkumar10" />
+  
+  ![](https://leetcard.jacoblin.cool/amith10mnr?ext=heatmap)
+  
 </p>
 
 ---
+
+
 
 <p align="left">
 <h3 align="left">Badges:</h3>
