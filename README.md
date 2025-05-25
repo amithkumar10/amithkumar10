@@ -49,15 +49,25 @@
 ---
 
 <h3>GitHub Stats & Language Usage</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amithkumar10&show_icons=true&locale=en&layout=compact" alt="amithkumar10" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amithkumar10&show_icons=true&locale=en&cache_seconds=0" alt="amithkumar10" />
-  
-  ![](https://leetcard.jacoblin.cool/amith10mnr?ext=heatmap)
-  
-</p>
+<div align="left">
+  <!-- Main Stats Row -->
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amithkumar10&show_icons=true&locale=en&cache_seconds=0&theme=default" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=amithkumar10&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+  </p>
+  <!-- Streak and LeetCode Row -->
+  <p>
+    <img height="180em" src="https://leetcard.jacoblin.cool/amith10mnr?ext=heatmap" alt="LeetCode Stats" />
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amithkumar10&theme=default" alt="GitHub Streak" />
+    
+  </p>
+  <!-- Activity Graph -->
+  <p>
+    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=amithkumar10&theme=github-compact" alt="Activity Graph" />
+  </p>
 
----
+ 
+</div>
 
 
 
