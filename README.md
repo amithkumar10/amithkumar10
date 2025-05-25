@@ -57,8 +57,9 @@
   </p>
   <!-- Streak and LeetCode Row -->
   <p>
-   <img   height="180em" src="https://leetcard.jacoblin.cool/amith10mnr?ext=heatmap&theme=forest&width=750" alt="LeetCode Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amithkumar10&theme=default" alt="GitHub Streak" />
+     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amithkumar10&theme=default" alt="GitHub Streak" />
+   <img   height="180em" src="https://leetcard.jacoblin.cool/amith10mnr?ext=heatmap&width=550&theme=light" alt="LeetCode Stats" />
+ 
     
   </p>
   
