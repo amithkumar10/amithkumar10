@@ -61,12 +61,7 @@
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amithkumar10&theme=default" alt="GitHub Streak" />
     
   </p>
-  <!-- Activity Graph -->
-  <p>
-    <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=amithkumar10&theme=github-compact" alt="Activity Graph" />
-  </p>
-
- 
+  
 </div>
 
 
