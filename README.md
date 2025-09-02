@@ -4,7 +4,7 @@
 
 <h3>An ambitious student with strong organizational and multitasking skills, from India</h3>
 
-- 🌱 I’m currently learning **Everything about Web Development**
+- 🌱 I’m currently learning **Everything about Cloud - Azure**
 
 - 🔗Know more about me at <a href="https://amithkumar.vercel.app/" target = "blank">My Website</a>
 
