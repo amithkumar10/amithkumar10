@@ -61,12 +61,6 @@
  
     
   </p>
-   <!-- LeetCode Row Badges -->
-   <p>
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=azuredevamith&theme=light" alt="LeetCode Badges" />
- 
-    
-  </p>
   
 </div>
 
@@ -105,6 +99,8 @@
     <a href="https://www.cloudskillsboost.google/public_profiles/6f30bb49-04d5-4b6e-99ad-212d9c2034bf/badges/5858354">
         <img height="150px" width="180px" src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" alt="Badge 8">
     </a>
+
+  
 </div>
 
 <br>
@@ -117,6 +113,12 @@
         <img height="150px" width="160px" src="https://cc.sj-cdn.net/instructor/3d8458f2k85sh-postman/courses/1a8b8cdxvqjxq/promo-image.1676069333.png" alt="Badge 8">
     </a>
 </div>
+<br>
+ <p>
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=azuredevamith&theme=light" alt="LeetCode Badges" />
+ 
+    
+  </p>
    </p>
 
     
