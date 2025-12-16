@@ -61,6 +61,12 @@
  
     
   </p>
+   <!-- LeetCode Row Badges -->
+   <p>
+     <img src="https://leetcode-badge-showcase.vercel.app/api?username={azuredevamith}&border=no-border" alt="LeetCode Badges" />
+ 
+    
+  </p>
   
 </div>
 
