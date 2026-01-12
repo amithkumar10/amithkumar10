@@ -57,9 +57,16 @@
   <!-- Streak and LeetCode Row -->
   <p>
      <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=amithkumar10&theme=default" alt="GitHub Streak" />
+   
    <img   height="180em" src="https://leetcard.jacoblin.cool/azuredevamith?ext=heatmap&width=530&theme=light" alt="LeetCode Stats" />
  
     
+  </p>
+
+  <p>
+      <div><h4>Language Practice Heatmap <p>(🟨 JS  🟦 TS  🟩 PY)</p></h4> </div>
+  <img src="https://raw.githubusercontent.com/amithkumar10/dev-lang-prac/main/heatmap.svg" />
+
   </p>
   
 </div>
