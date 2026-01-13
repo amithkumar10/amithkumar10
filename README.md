@@ -65,7 +65,7 @@
 
   <p>
       <div><h4>Language Practice Heatmap 2026 <p>(🟨 JS  🟦 TS  🟩 PY)</p></h4> </div>
-  <img src="https://raw.githubusercontent.com/amithkumar10/dev-lang-prac/main/heatmap.svg" />
+  <img src="https://raw.githubusercontent.com/amithkumar10/Heatmap/main/heatmap.svg" />
 
   </p>
   
