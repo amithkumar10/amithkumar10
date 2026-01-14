@@ -50,8 +50,8 @@
 <div align="left">
   <!-- Main Stats Row -->
   <p>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amithkumar10&show_icons=true&locale=en&cache_seconds=0&theme=default" alt="GitHub Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=amithkumar10&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
+    <img height="180em" src="https://amith-github-readme-stats.vercel.app//api?username=amithkumar10&show_icons=true&locale=en&cache_seconds=0&theme=default" alt="GitHub Stats" />
+    <img height="180em" src="https://amith-github-readme-stats.vercel.app//api/top-langs?username=amithkumar10&show_icons=true&locale=en&layout=compact&theme=default" alt="Top Languages" />
   </p>
   <!-- Streak and LeetCode Row -->
   <p>
